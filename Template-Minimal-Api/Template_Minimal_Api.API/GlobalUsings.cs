@@ -1,0 +1,17 @@
+﻿global using Asp.Versioning;
+global using Asp.Versioning.Builder;
+global using Microsoft.AspNetCore.Mvc;
+global using Serilog;
+global using System.Data;
+global using Template.MinimalApi.API.Endpoints;
+global using Template.MinimalApi.Extensions.CustomResults;
+global using Template.MinimalApi.Extensions.Documentations;
+global using Template.MinimalApi.Extensions.Documentations.Versionings;
+global using Template.MinimalApi.Extensions.Entities;
+global using Template.MinimalApi.Extensions.Logs;
+global using Template.MinimalApi.Extensions.Middlewares;
+global using Template.MinimalApi.Extensions.Observability.Healthchecks;
+global using Template.MinimalApi.Extensions.Options;
+global using Template.MinimalApi.Extensions.Performances;
+global using Template.MinimalApi.Extensions.Shared.Enums;
+global using Template.MinimalApi.Extensions.Shared.Notifications;
